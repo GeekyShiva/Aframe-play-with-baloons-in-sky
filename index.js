@@ -3,7 +3,7 @@
 forked and developed from codepen Bryik's A-Frame CodePens*/
 
 var dataset = []
-var numDataPoints = 50;
+var numDataPoints = 70;
 var maxRange = Math.random() * 100;						//Max range of new values
 for (var i = 0; i < numDataPoints; i++) {
   var x = Math.floor(Math.random() * maxRange);
