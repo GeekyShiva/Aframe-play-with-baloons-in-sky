@@ -1,6 +1,7 @@
-# Aframe-play-with-baloons-in-sky
+# Play-with-baloons-in-sky
 
 This is a simple repository created for entertainment and learning purposes and uses js to do all the math.
+Built with Aframe
 
 
 
